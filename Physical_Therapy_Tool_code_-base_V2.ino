@@ -7,7 +7,7 @@
  * tools.
  * ------------------------------------------
  * Written by: Casey Walker
- * BYU CS HCI Research
+ * BYU CS HCI Research 2019
  *
 */
 #include <FastLED.h>
